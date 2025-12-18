@@ -1,0 +1,16 @@
+<svg width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+    <rect width="500" height="500" fill="#f0f0f0" />
+    <rect width="500" height="500" fill="url(#grad2)" opacity="0.3" />
+    <defs>
+        <linearGradient id="grad2" x1="0%" y1="0%" x2="100%" y2="100%">
+            <stop offset="0%" style="stop-color:#dc2626;stop-opacity:1" />
+            <stop offset="100%" style="stop-color:#f97316;stop-opacity:1" />
+        </linearGradient>
+    </defs>
+    <rect x="150" y="100" width="200" height="200" fill="#dc2626" opacity="0.8" rx="15" />
+    <circle cx="250" cy="150" r="30" fill="#fbbf24" opacity="0.9" />
+    <rect x="180" y="320" width="140" height="100" fill="#f97316" opacity="0.7" rx="10" />
+    <path d="M 200 280 L 220 240 L 240 280 Z" fill="#fbbf24" opacity="0.8" />
+    <text x="250" y="450" font-family="Arial" font-size="24" fill="#333" text-anchor="middle">Ultra
+        HD 4K Webcam</text>
+</svg>

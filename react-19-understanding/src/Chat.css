@@ -1,0 +1,9 @@
+.bot {
+  text-align: left;
+  direction: ltr;
+}
+
+.user {
+  text-align: right;
+  direction: rtl;
+}

@@ -1,0 +1,3 @@
+[submodule "ecommerce-example"]
+	path = ecommerce-example
+	url = https://github.com/suchit-simform/react-19-ecommerce-usage-example.git

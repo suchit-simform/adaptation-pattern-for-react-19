@@ -1,0 +1,48 @@
+[
+  {
+    "id": "product-1",
+    "name": "Premium Wireless Headphones",
+    "sku": "SKU-001",
+    "description": "High-quality wireless headphones with active noise cancellation, 30-hour battery life, and premium sound quality. Perfect for music lovers and professionals.",
+    "price": 299.99,
+    "rating": 4.8,
+    "stock": 15,
+    "images": [
+      {
+        "id": "img-1-main",
+        "url": "/products/product-1.svg",
+        "alt": "Premium Wireless Headphones",
+        "isThumbnail": false
+      },
+      {
+        "id": "img-1-thumb",
+        "url": "/products/product-1-thumb.svg",
+        "alt": "Premium Wireless Headphones thumbnail",
+        "isThumbnail": true
+      }
+    ]
+  },
+  {
+    "id": "product-2",
+    "name": "Ultra HD 4K Webcam",
+    "sku": "SKU-002",
+    "description": "Professional-grade 4K webcam with automatic focus, wide-angle lens, and built-in stereo microphone. Ideal for streaming and video conferencing.",
+    "price": 149.99,
+    "rating": 4.6,
+    "stock": 8,
+    "images": [
+      {
+        "id": "img-2-main",
+        "url": "/products/product-2.svg",
+        "alt": "Ultra HD 4K Webcam",
+        "isThumbnail": false
+      },
+      {
+        "id": "img-2-thumb",
+        "url": "/products/product-2-thumb.svg",
+        "alt": "Ultra HD 4K Webcam thumbnail",
+        "isThumbnail": true
+      }
+    ]
+  }
+]
